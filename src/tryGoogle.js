@@ -7,6 +7,8 @@ getLocalizations = function(){
         case "sk-sk": return {name: "Vyskúšat Google",      title: "Vyskúšajte vyhľadávanie v Google"}; // Slovak
         case "de-de": return {name: "Versuchen Sie Google", title: "Versuchen Sie eine Google-Suche"};  // German
         case "de-at": return {name: "Versuchen Sie Google", title: "Versuchen Sie eine Google-Suche"};  // German (Austria)
+    }
+    switch (docLang.substr(0, 2)) {
         case "es":    return {name: "Intentar con Google",  title: "Intentar usando Google"};           // Spanish
         case "en":                                                                                      // English
         default:      return {name: "Try Google",           title: "Try using Google"}                  // Default
