@@ -1,12 +1,4 @@
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -22,7 +14,7 @@
 <h3 align="center">Try Google!</h3>
 
   <p align="center">
-    An awesome Firefox extension to retry your DuckDuckGo query with the Google search engine
+    A simple, yet powerful, Firefox extension to retry your DuckDuckGo query with the Google search engine
     <br />
     <a href="https://addons.mozilla.org/en-US/firefox/addon/trygoogle/"><strong>Find it on Mozilla Add-ons store »</strong></a>
     <br />
@@ -64,9 +56,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-If you are here you probably know DuckDuckGo and think it is the greatest search engine (If you don´t here is [why](https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/)).
+If you are here you probably know DuckDuckGo and think it is the greatest search engine (If you dont here is [why](https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/)).
 
-However sometimes, of course due to the lack of trackers and stuff, DuckDuckGo search engine fails to deliver the correct result. That´s what TryGoogle is for, it will add your DuckDuckGo search result page a "TryGoogle" link. Click on it and it will recreate your query using the google search engine.
+However sometimes, of course due to the lack of trackers and stuff, DuckDuckGo search engine fails to deliver the correct result. That's what TryGoogle is for, it will add your DuckDuckGo search result page a "TryGoogle" link. Click on it and it will recreate your query using the google search engine.
 
 Also, in order for your google search to be a little more private, TryGoogle will add noopener, nofollow and noreferrer attributes to the query. This will prevent google from knowing where you came from.
 
