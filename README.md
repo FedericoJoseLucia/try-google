@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-If you are here you probably know DuckDuckGo and think it is the greatest search engine (If you dont here is [why](https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/)).
+If you are here you probably know DuckDuckGo and think it is the greatest search engine (If you don't here is [why](https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/)).
 
 However sometimes, of course due to the lack of trackers and stuff, DuckDuckGo search engine fails to deliver the correct result. That's what TryGoogle is for, it will add your DuckDuckGo search result page a "TryGoogle" link. Click on it and it will recreate your query using the google search engine.
 
